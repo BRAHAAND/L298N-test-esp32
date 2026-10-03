@@ -1,4 +1,4 @@
-// Step 2: Motor alone, L298N + ESP32 (pins on one side of the board)
+
 // Requires ESP32 Arduino core 3.x (ledcAttach / ledcWrite take a pin)
 
 const int ENA = 18;   // PWM speed
