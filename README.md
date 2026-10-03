@@ -5,10 +5,10 @@
 <p align=center>
   
   <img width="50%" height="1560" alt="image" src="https://github.com/user-attachments/assets/a64c5ce5-495f-45ff-aa6a-9f0c8e0a2af8" />
-  The circuit does not accurately resemble the actual components, use it to know the pin connections and for reference only.
 
   <img width="50%" height="1615" alt="IMG20261004001903" src="https://github.com/user-attachments/assets/63a225c5-08d8-4bb0-af3b-9bd89d007afe" />
 </p>
+ The circuit diagram does not accurately resemble the actual components, use it to know the pin connections and for reference only.
 
 
 ## Hardware
