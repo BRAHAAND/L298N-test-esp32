@@ -4,7 +4,7 @@
 **A minimal test that drives one DC motor in both directions with PWM speed control, using an ESP32 and an L298N motor driver.**
 <p align=center>
   
-  <img width="50%" height="1560" alt="image" src="https://github.com/user-attachments/assets/a64c5ce5-495f-45ff-aa6a-9f0c8e0a2af8" />
+  <img width="70%" height="1560" alt="image" src="https://github.com/user-attachments/assets/a64c5ce5-495f-45ff-aa6a-9f0c8e0a2af8" />
 
   <img width="50%" height="1615" alt="IMG20261004001903" src="https://github.com/user-attachments/assets/63a225c5-08d8-4bb0-af3b-9bd89d007afe" />
 </p>
