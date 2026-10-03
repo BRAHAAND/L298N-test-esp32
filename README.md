@@ -47,7 +47,7 @@ For core 2.x, replace `ledcAttach(ENA, PWM_FREQ, PWM_RES)` with `ledcSetup(0, PW
 ## How to run
 
 1. Wire everything with the battery disconnected.
-2. Open `l298n_motor_test/l298n_motor_test.ino` in the Arduino IDE.
+2. Open `l298n_motor_test.ino` in the Arduino IDE.
 3. Select your ESP32 board and port, then upload.
 4. Open the Serial Monitor at 115200 baud.
 5. Connect the battery.
