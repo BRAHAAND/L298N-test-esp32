@@ -1,5 +1,4 @@
 # L298N-test-esp32
-# ESP32 + L298N Motor Test
 
 **A minimal test that drives one DC motor in both directions with PWM speed control, using an ESP32 and an L298N motor driver.**
 <p align=center>
